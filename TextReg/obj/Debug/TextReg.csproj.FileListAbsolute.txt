@@ -1,0 +1,29 @@
+c:\users\11925\documents\visual studio 2015\Projects\TextReg\TextReg\bin\Debug\TextReg.exe.config
+C:\Users\11925\documents\visual studio 2015\Projects\TextReg\TextReg\bin\Debug\TextReg.exe
+C:\Users\11925\documents\visual studio 2015\Projects\TextReg\TextReg\bin\Debug\TextReg.pdb
+C:\Users\11925\documents\visual studio 2015\Projects\TextReg\TextReg\obj\Debug\TextReg.csprojResolveAssemblyReference.cache
+C:\Users\11925\documents\visual studio 2015\Projects\TextReg\TextReg\obj\Debug\TextReg.Form1.resources
+C:\Users\11925\documents\visual studio 2015\Projects\TextReg\TextReg\obj\Debug\TextReg.Properties.Resources.resources
+C:\Users\11925\documents\visual studio 2015\Projects\TextReg\TextReg\obj\Debug\TextReg.csproj.GenerateResource.Cache
+C:\Users\11925\documents\visual studio 2015\Projects\TextReg\TextReg\obj\Debug\TextReg.exe
+C:\Users\11925\documents\visual studio 2015\Projects\TextReg\TextReg\obj\Debug\TextReg.pdb
+C:\Users\Дима\Desktop\TextReg\TextReg\bin\Debug\TextReg.exe.config
+C:\Users\Дима\Desktop\TextReg\TextReg\bin\Debug\TextReg.exe
+C:\Users\Дима\Desktop\TextReg\TextReg\bin\Debug\TextReg.pdb
+C:\Users\Дима\Desktop\TextReg\TextReg\obj\Debug\TextReg.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\TextReg\TextReg\obj\Debug\TextReg.Form1.resources
+C:\Users\Дима\Desktop\TextReg\TextReg\obj\Debug\TextReg.Properties.Resources.resources
+C:\Users\Дима\Desktop\TextReg\TextReg\obj\Debug\TextReg.csproj.GenerateResource.cache
+C:\Users\Дима\Desktop\TextReg\TextReg\obj\Debug\TextReg.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\TextReg\TextReg\obj\Debug\TextReg.exe
+C:\Users\Дима\Desktop\TextReg\TextReg\obj\Debug\TextReg.pdb
+C:\Users\Dima\Desktop\TextReg\TextReg\bin\Debug\TextReg.exe.config
+C:\Users\Dima\Desktop\TextReg\TextReg\bin\Debug\TextReg.exe
+C:\Users\Dima\Desktop\TextReg\TextReg\bin\Debug\TextReg.pdb
+C:\Users\Dima\Desktop\TextReg\TextReg\obj\Debug\TextReg.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\TextReg\TextReg\obj\Debug\TextReg.Form1.resources
+C:\Users\Dima\Desktop\TextReg\TextReg\obj\Debug\TextReg.Properties.Resources.resources
+C:\Users\Dima\Desktop\TextReg\TextReg\obj\Debug\TextReg.csproj.GenerateResource.cache
+C:\Users\Dima\Desktop\TextReg\TextReg\obj\Debug\TextReg.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\TextReg\TextReg\obj\Debug\TextReg.exe
+C:\Users\Dima\Desktop\TextReg\TextReg\obj\Debug\TextReg.pdb
